@@ -68,7 +68,7 @@
     "vue": "^2.5.3"
   },
   "dependencies": {
-    "element-resize-event": "^2.0.7",
+    "element-resize-event": "github:xdimedrolx/element-resize-event",
     "ismobilejs": "^0.4.1",
     "object-assign": "^4.1.1",
     "proxy-polyfill": "^0.1.6"
